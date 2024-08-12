@@ -1,27 +1,71 @@
-<h1 align="center">Hi 👋, I'm BOUHADDA Mohammed Djaoued</h1>
-<h3 align="center">A computer science student at ESI-SBA , someone who's totally obssesed with Tech</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=djaoued2006&label=Profile%20views&color=0e75b6&style=flat" alt="djaoued2006" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djaoued2006" alt="djaoued2006" /></a> </p>
-
-- 🌱 I’m currently learning **Python , C**
-
-- 💬 Ask me about **Pascal , HTML , CSS**
-
-- 📫 How to reach me **bhdmeddjaoued@gmail.com**
-
-- ⚡ Fun fact **I think I am a scientist**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1 align="center">Hi 👋, I'm Bouhadda Mohammed Djaoued</h1>
+<h3 align="center">A passionate Programmer from Algeria</h3>
+<p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also i enjoy programming things from absolutely scratch and that's what im doing all the time🛠️</p>
+<p align="center"> 
+ <img src="https://komarev.com/ghpvc/?username=Djaoued2006&label=Profile%20views&color=0e75b6&style=flat" alt="Bouhadda Mohammed Djaoued" /> 
 </p>
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
+
+- 🔭 I’m currently working on the **PVM** project
+
+- 🌱 I’m currently learning backend development with **ExpressJS**
+
+- 💬 Ask me about **C, Pascal, ExpressJS and NodeJS**
+
+- 📫 How to reach me **djawedbhd06@gmail.com**
+
+- ⚡ Fun fact **I think I'm a scientist**
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=djaoued2006&show_icons=true&locale=en&layout=compact" alt="djaoued2006" /></p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,js,express,node,pascal,py,git,github,vscode,postman,linux" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=djaoued2006&show_icons=true&locale=en" alt="djaoued2006" /></p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djaoued2006&" alt="djaoued2006" /></p>
+<h3 align="left">Trophy:</h3>
+
+<p align="center">
+<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
+  
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Djaoued2006&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+ </div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Djaoued2006&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+ </div>
+ <br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+ 
+![Djaoued's GitHub stats](https://github-readme-stats.vercel.app/api?username=Djaoued2006\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Djaoued2006&theme=midnight-purple)](https://git.io/streak-stats)
+
+</div>
+
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Activity:</h3>
+
+![Djaoued's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Djaoued2006&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<br><br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<br>
